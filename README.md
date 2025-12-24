@@ -1,6 +1,6 @@
 
 <h1 align="center">Hola 👋, soy Borja Reyes Díez</h1>
-<h3 align="center">Desarrollador de software Full Stack | Android | Laravel | React Native</h3>
+<h3 align="center">Desarrollador de software Full Stack</h3>
 
 ---
 
