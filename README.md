@@ -1,9 +1,17 @@
 <h1 align="center">👋 Hola, soy Borja Reyes Díez</h1>
-<h3 align="center">Senior Android Developer (Kotlin) | Especialista en Arquitecturas Nativas | Full Stack Developer</h3>
+
+<h3 align="center">
+Senior Android Native Developer (Kotlin)<br/>
+Especialista en Arquitecturas Nativas · Experiencia Full Stack
+</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ajrobseyer/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:borja.reyes@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:ajrob.seyer@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+<p align="center">
+  <b>Android nativo como especialidad · Stack amplio como ventaja competitiva</b>
 </p>
 
 ---
@@ -17,6 +25,11 @@
 🤖 **Actualmente cursando Máster en Desarrollo con Inteligencia Artificial**, expandiendo mis capacidades hacia la integración de IA en soluciones de software modernas. Trabajo con múltiples modelos de IA incluyendo ChatGPT, Claude, Codex, Copilot, Grok, Perplexity, Warp y OpenCode, tanto en modo chat como en modo agente para automatización y desarrollo asistido.
 
 Mi trayectoria abarca desde la enseñanza académica hasta el desarrollo de aplicaciones móviles de alto impacto en sectores como medios de comunicación, fintech, salud, agroindustria y educación. He liderado equipos, participado en certificaciones **CMMI Nivel 3**, y creado soluciones que transforman procesos empresariales.
+
+<p>
+  ✅ <b>Especialidad:</b> Android Nativo (Kotlin/Java) · MVVM/MVC · Clean Architecture<br/>
+  🧩 <b>Complementario:</b> React Native · Laravel · Django · Serverless (AWS Lambda) · CI/CD
+</p>
 
 🌎 **Ubicación:** México, CDMX (Formación académica en España y México)  
 🎓 **Experiencia:** +15 años en desarrollo de software | **6+ años especializados en Android Nativo**  
