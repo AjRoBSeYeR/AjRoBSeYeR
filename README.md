@@ -428,19 +428,6 @@ Mi trayectoria abarca desde la enseñanza académica hasta el desarrollo de apli
 
 ---
 
-## 📊 Estadísticas GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AjRoBSeYeR&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjRoBSeYeR&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AjRoBSeYeR&theme=tokyonight" alt="streak stats"/>
-</p>
-
----
-
 ## 💼 Servicios Freelance
 
 ### 📱 **Especialidad: Desarrollo Android Nativo**
