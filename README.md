@@ -180,170 +180,67 @@ Cuento con un **Máster en Desarrollo con Inteligencia Artificial** y amplío mi
 
 ---
 
-## 💼 Experiencia Profesional
+## 💼 Mi trayectoria profesional
 
-### 🚀 Software Engineer | Vinco Orbis Proyectos
-**2020 - Actualidad** | México
+### 🔧 Los primeros años: soporte, mantenimiento y trabajo por cuenta propia
 
-**Desarrollo Android Nativo (Kotlin/Java) - Especialidad Principal**
+Mi trayectoria tecnológica comenzó en **Bilbao**, donde fui **responsable de mantenimiento informático en el Obispado de Bilbao entre marzo de 2002 y enero de 2004**. Allí prestaba asistencia técnica presencial, telefónica y remota a las distintas áreas de la organización.
 
-- 📰 **Heraldo de México** (Kotlin - MVVM)
-  - Migración completa de la app legacy a nueva arquitectura moderna
-  - Implementación de arquitectura MVVM con Repository Pattern
-  - Integración con APIs REST mediante Retrofit
-  - Sincronización de contenido offline con Room
-  - Navegación con Navigation Component
-  - UI moderna con Material Design y XML
+En **agosto de 2004** inicié mi actividad independiente bajo el nombre **AjRoBSeYeR**, una línea de trabajo que mantengo hasta la actualidad de forma remota. A lo largo de los años he desarrollado software a medida, sistemas empresariales y plataformas educativas, además de ofrecer consultoría técnica y arquitectura de software. Esta actividad ha evolucionado hacia aplicaciones web, soluciones multiplataforma y backends serverless; actualmente, mi especialidad son las aplicaciones Android nativas, con integración de servicios, persistencia local y sincronización de datos. También incorporo automatización de procesos, integración de IA y pipelines CI/CD.
 
-- 💳 **Credencial Digital SURA** (Kotlin - MVVM)
-  - Sistema de verificación de identidad para promotores financieros
-  - Integración con cámara y permisos Android
-  - Almacenamiento seguro con Room y encriptación
-  - Firebase Authentication y Cloud Firestore
-  - Arquitectura MVVM + Clean Architecture
+Entre **octubre de 2005 y noviembre de 2010** trabajé como **técnico informático en Natura Plena Informática, en España**, combinando servicio técnico, reparación y mantenimiento de equipos con el suministro de insumos informáticos a empresas.
 
-- 🧾 **Ya Dijiste** (Kotlin - MVVM)
-  - Plataforma de evaluación de establecimientos mediante opinión pública
-  - Retrofit para consumo de API REST
-  - Room para caché local de datos
-  - Coroutines para operaciones asíncronas
-  - LiveData y ViewModel para gestión de estados
+### 🎓 La etapa educativa y los sistemas de gestión en México
 
-- ✡️ **Refuah** (Kotlin - MVC)
-  - Aplicación de organización de rezos grupales
-  - Sincronización en tiempo real con Firebase
-  - Notificaciones push con FCM
-  - UI con XML y Material Components
+De **septiembre de 2011 a julio de 2014** fui **profesor en el Instituto de Progreso en Enseñanza en Computación (IPEC), en México**. Impartí programación web, estructuras de datos y algoritmos, mantenimiento de equipos, redes locales y dominios, además de diseño gráfico, multimedia, ofimática e informática de gestión empresarial. Desde **septiembre de 2012 hasta julio de 2014** también asumí la **dirección de plantel**.
 
-- 🧾 **Casa Lumbre Agro** (Kotlin - MVVM)
-  - Sistema de registro de eventualidades en plantaciones de mezcal
-  - Geolocalización en tiempo real con Google Maps API
-  - Sincronización offline/online con WorkManager
-  - Captura y almacenamiento de imágenes
-  - Room + Retrofit para gestión de datos
+Entre **julio de 2014 y julio de 2015** ocupé la **dirección del Departamento de Programación y Desarrollo de Software en M&M Innovación, México**. En esa etapa desarrollé un sistema de gestión interna de producción con **HTML, CSS, Flash, ActionScript 2 y MySQL**.
 
-- 🌱 **MACL** (Kotlin - MVVM)
-  - Monitoreo de estatus de plantaciones de mezcal
-  - Dashboard con datos en tiempo real
-  - Integración con sensores IoT mediante API
-  - Gráficos y visualización de datos
+En paralelo, en **agosto de 2014** comenzó mi primera etapa como **desarrollador y responsable de sistemas en el Centro de Enseñanza y Capacitación (CEC), México**, que se prolongó hasta **febrero de 2020**. Su sistema de gestión escolar fue creciendo a través de varias tecnologías: empezó en **Flash con ActionScript 3 (2014–2015)**, pasó a una aplicación de escritorio en **Visual Basic 6 (2015–2016)** y evolucionó a **VB.NET con conexión a MySQL remoto (2016–2018)**. Entre **2018 y 2020** llegó la modernización completa a una aplicación web con **Laravel y Bootstrap**.
 
-- 🔊 **Cero Ruido Canal 5** (Java - MVC)
-  - Medidor de decibelios para dinámica televisiva
-  - Acceso a micrófono y procesamiento de audio
-  - UI personalizada con animaciones
+El sistema integra matrículas y pagos, calificaciones y seguimiento académico, horarios y asistencias, así como generación de reportes y documentos. Mi trabajo también abarcó el portal institucional con **HTML, CSS, JavaScript y PHP**, la intranet con backoffice y gestión académica en **PHP 8 y Laravel**, y el área de alumnos para consultar calificaciones, pagos y horarios. A ello se sumaron la implementación de **Moodle** como aula virtual y la creación de una **API REST** para conectar el sistema con la aplicación móvil.
 
-**Desarrollo Híbrido (React Native)**
-- 🥘 **Rico Guide**: Guía gastronómica multiplataforma para CDMX (iOS/Android)
+En CEC también impartí formación en desarrollo web con **HTML, CSS, JavaScript y PHP**, desarrollo de escritorio con **Visual Basic y C#**, diseño gráfico con **Photoshop y CorelDraw**, y ofimática avanzada.
 
-**Backend Development**
-- 🧑‍💻 **Shannon** (Django): Scraper de noticias con análisis de estándares
-- 🎓 **Potencia Educativa** (Django): Backend de plataforma educativa con curso de inglés
-- 🗂️ **Hendrix** (Express.js): API REST para gestión de actividades internas
-- ⛽ **OSSIPA** (AWS Lambda + TypeScript + PostgreSQL): Backend serverless para generación automatizada de documentos sobre gasolineras mediante snippets y plantillas personalizables
+Durante esta etapa, entre **enero de 2016 y febrero de 2018**, fui **cofundador y desarrollador de RBBR Software en Texcoco, México**. Allí diseñé, desarrollé y puse en marcha **sistemas de escritorio y soluciones integrales de gestión educativa, contable y control escolar**, conectando sistemas locales y remotos con servicios y aplicaciones web. Trabajé con **VB.NET, VB6, HTML, CSS, PHP, JavaScript, Java MVC, Tomcat y XML**.
 
-**DevOps & CI/CD**
-- 🔄 Implementación de pipelines de integración y despliegue continuo con **Circle CI**
-- Automatización de builds y testing para aplicaciones Android
+### 📱 La especialización en Android nativo
 
-**Certificación de Calidad**
-- ⚙️ Colaboración en creación y afinación de procesos para **certificación CMMI Nivel 3**
+Mi especialización en Android comenzó en **Ibermática, España, entre marzo y noviembre de 2019**, como **desarrollador Android nativo**. Fue una etapa centrada en **Java**, las bases de la plataforma y la arquitectura **MVC**, aplicada a tres proyectos con necesidades diferentes.
 
-### 💻 Freelance Android & Full Stack Developer | AjRoBSeYeR
-**Agosto 2004 - Actualidad** | Remoto
+En **MiMe**, una aplicación de asistencia para pacientes con Alzheimer, trabajé en la comunicación entre las aplicaciones del cuidador y del paciente, la sincronización en tiempo real entre dispositivos y la geolocalización con **Google Services**. La solución incorporaba persistencia local con **SQLite** y servicios en segundo plano.
 
-- Desarrollo de software a medida, sistemas empresariales y plataformas educativas.
-- Especialización actual en aplicaciones Android nativas, con integración de servicios, persistencia local y sincronización de datos.
-- Desarrollo de aplicaciones web, soluciones multiplataforma y backends serverless.
-- Automatización de procesos, integración de IA y configuración de pipelines CI/CD.
-- Consultoría técnica y arquitectura de software.
+Con **Kaiku** desarrollé un sistema de inventario para repartidores de una empresa regional de lácteos. La aplicación integraba una API mediante **Retrofit**, sincronización de datos en tiempo real y gestión de inventario offline/online, con interfaces construidas en **XML y RecyclerView**.
 
-### 💻 Cofundador y Desarrollador | RBBR Software
-**Enero 2016 - Febrero 2018** | Texcoco, México
-- Diseño, desarrollo y puesta en marcha de sistemas de escritorio y soluciones integrales de gestión educativa, contable y control escolar.
-- Integración de sistemas locales y remotos con servicios y aplicaciones web.
-- Tecnologías: VB.NET, VB6, HTML, CSS, PHP, JavaScript, Java MVC, Tomcat y XML.
+En **Sacyr** trabajé en una aplicación de gestión de nóminas con una arquitectura completamente basada en API mediante **Retrofit**, autenticación, manejo de sesiones y visualización de documentos **PDF**.
 
-### 📱 Desarrollador Android Nativo | Ibermática
-**Marzo 2019 - Noviembre 2019** | España
+### 🚀 Vinco Orbis: proyectos móviles y ampliación hacia backend y cloud
 
-**Inicio de Especialización en Android** - Aquí comenzó mi trayectoria como desarrollador Android, iniciando con **Java** y las bases de la plataforma.
+Desde **2020** trabajo como **Software Engineer en Vinco Orbis Proyectos, México**. El desarrollo **Android nativo con Kotlin y Java** es el eje de esta etapa, con proyectos en medios, servicios financieros, salud, agroindustria y televisión.
 
-- 🧠 **MiMe** (Java - MVC)
-  - App de asistencia para pacientes con Alzheimer
-  - Sincronización en tiempo real entre dispositivos
-  - Geolocalización en tiempo real usando Google Services
-  - Comunicación entre app de cuidador y paciente
-  - Base de datos local con SQLite
-  - Implementación de servicios en background
+En **Heraldo de México**, con **Kotlin y MVVM**, trabajé en la migración completa de la aplicación legacy a una arquitectura moderna con **Repository Pattern**. La solución integra APIs REST mediante **Retrofit**, sincronización de contenido offline con **Room**, navegación con **Navigation Component** e interfaces con **Material Design y XML**.
 
-- 🚚 **Kaiku** (Java - MVC)
-  - Sistema de inventario para repartidores de empresa de lácteos regional
-  - Integración con API mediante Retrofit
-  - Sincronización de datos en tiempo real
-  - Gestión de inventario offline/online
-  - UI con XML y RecyclerView
+Para **Credencial Digital SURA** desarrollé funcionalidades de verificación de identidad de promotores financieros. La aplicación utiliza **Kotlin, MVVM y Clean Architecture**, integración con cámara y permisos Android, almacenamiento seguro con **Room y encriptación**, así como **Firebase Authentication y Cloud Firestore**.
 
-- 💼 **Sacyr** (Java - MVC)
-  - Aplicación de gestión de nóminas
-  - Arquitectura 100% basada en API con Retrofit
-  - Autenticación y manejo de sesiones
-  - Visualización de documentos PDF
+En **Ya Dijiste**, una plataforma de evaluación de establecimientos mediante opinión pública, trabajé con **Kotlin y MVVM**, **Retrofit** para consumir la API REST, **Room** para la caché local, **Coroutines** para operaciones asíncronas y **LiveData y ViewModel** para gestionar el estado de la interfaz.
 
-### 👨‍🏫 Desarrollador y Responsable de Sistemas | Centro de Enseñanza y Capacitación (CEC)
-**Agosto 2014 - Febrero 2020 | 2024 - Actualidad** | México
+**Refuah** abordó la organización de rezos grupales mediante una aplicación en **Kotlin con MVC**, sincronización en tiempo real con **Firebase**, notificaciones push mediante **FCM** e interfaces con **XML y Material Components**.
 
-**Sistema de Gestión Escolar - Evolución Continua**
-- 🎬 **Fase 1 (2014-2015)**: Sistema en Flash con ActionScript 3
-- 🖥️ **Fase 2 (2015-2016)**: Migración a sistema de escritorio en Visual Basic 6
-- 💻 **Fase 3 (2016-2018)**: Evolución a VB.NET con conexión a MySQL remoto
-- 🌐 **Fase 4 (2018-2020)**: Modernización completa a aplicación web en Laravel con Bootstrap
-- 📱 **Fase 5 (2024 - En desarrollo)**: Desarrollo de aplicación móvil Android nativa en Kotlin
-  - App complementaria al sistema web Laravel
-  - Consulta de información académica en tiempo real
-  - Notificaciones push para alumnos y padres
-  - Sincronización con sistema web mediante API REST
-  - Arquitectura MVVM + Clean Architecture
-  - UI moderna con Jetpack Compose
-  
-**Sistema Integral que Gestiona:**
-- Matrículas de alumnos y gestión de pagos
-- Calificaciones y seguimiento académico
-- Horarios y asistencias
-- Generación de reportes y documentos
-- Comunicación con alumnos y padres (nueva funcionalidad móvil)
+En el ámbito agroindustrial, **Casa Lumbre Agro** permite registrar eventualidades en plantaciones de mezcal. Trabajé con **Kotlin y MVVM**, geolocalización en tiempo real con **Google Maps API**, sincronización offline/online con **WorkManager**, captura y almacenamiento de imágenes, y gestión de datos mediante **Room y Retrofit**. En **MACL**, también con **Kotlin y MVVM**, el foco fue el monitoreo del estado de las plantaciones: dashboard con datos en tiempo real, integración de sensores **IoT mediante API**, gráficos y visualización de datos.
 
-**Desarrollo Web & Plataformas**
-- 🌐 Portal web institucional (HTML, CSS, JS, PHP)
-- 📊 Intranet con backoffice y gestión académica (PHP 8 + Laravel)
-- 👨‍🎓 Área de alumno (consulta de calificaciones, pagos, horarios)
-- 📚 Implementación de **Moodle** como aula virtual
-- 🔌 API REST para integración con app móvil
+Con **Cero Ruido Canal 5** trabajé en un medidor de decibelios para una dinámica televisiva, desarrollado en **Java con MVC**, con acceso al micrófono, procesamiento de audio y una interfaz personalizada con animaciones.
 
-**Docencia**
-- Desarrollo web (HTML, CSS, JS, PHP)
-- Desarrollo de escritorio (Visual Basic, C#)
-- Diseño gráfico (Photoshop, CorelDraw)
-- Ofimática avanzada
+Esta etapa también incluye desarrollo multiplataforma: en **Rico Guide** trabajé con **React Native** para una guía gastronómica de **CDMX disponible en iOS y Android**.
 
-### 🎓 Director y Profesor | Instituto de Progreso en Enseñanza en Computación (IPEC)
-**Septiembre 2011 - Julio 2014** | México
-- Dirección de plantel de septiembre de 2012 a julio de 2014
-- Docencia en informática: programación web, estructuras de datos y algoritmos, mantenimiento de equipos, redes locales y dominios
-- Formación en diseño gráfico, multimedia, ofimática e informática de gestión empresarial
+En backend, participé en **Shannon**, un scraper de noticias con análisis de estándares desarrollado en **Django**; **Potencia Educativa**, el backend en **Django** de una plataforma educativa con un curso de inglés; y **Hendrix**, una API REST en **Express.js** para gestionar actividades internas. En **OSSIPA** trabajé con **AWS Lambda, TypeScript y PostgreSQL** en un backend serverless que genera documentos sobre gasolineras mediante snippets y plantillas personalizables.
 
-### 🌐 Director del Departamento de Programación y Desarrollo de Software | M&M Innovación
-**Julio 2014 - Julio 2015** | México
-- Desarrollo de sistema de gestión interna de producción (HTML, CSS, Flash, ActionScript 2 y MySQL)
+Además del desarrollo, he implementado pipelines de **integración y despliegue continuo con Circle CI**, automatizando builds y testing para aplicaciones Android. También he colaborado en la creación y afinación de procesos para la **certificación CMMI Nivel 3**.
 
-### 🔧 Técnico Informático | Natura Plena Informática
-**Octubre 2005 - Noviembre 2010** | España
-- Servicio técnico, reparación y mantenimiento
-- Proveedor de insumos informáticos a empresas
+### 🌱 La continuidad del proyecto educativo
 
-### 🔧 Responsable de Mantenimiento Informático | Obispado de Bilbao
-**Marzo 2002 - Enero 2004** | Bilbao, España
-- Asistencia técnica presencial, telefónica y remota a las distintas áreas de la organización
+En **2024 retomé mi colaboración con CEC**, que continúa hasta la actualidad. La siguiente fase del sistema escolar es una **aplicación Android nativa en Kotlin, actualmente en desarrollo**, complementaria a la plataforma web en Laravel.
+
+Esta aplicación está orientada a la consulta de información académica en tiempo real y a la comunicación con alumnos y padres mediante notificaciones push. Se conecta al sistema web a través de una **API REST**, utiliza **MVVM y Clean Architecture** y cuenta con interfaces en **Jetpack Compose**.
 
 ---
 
