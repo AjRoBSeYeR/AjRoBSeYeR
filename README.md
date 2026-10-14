@@ -269,7 +269,7 @@ Esta aplicación está orientada a la consulta de información académica en tie
 
 ### 💻 Programador de Aplicaciones de Gestión WebApps
 **Ipartek** | 2018 - 2019 | España
-- J2EE, HTML5, CSS3, Bootstrap, Hibernate, Angular y MySQL Workbench
+- Java avanzado, Angular, J2EE, HTML5, CSS3, Bootstrap, Hibernate y MySQL Workbench
 
 ### 📱 Técnico Superior en Desarrollo de Aplicaciones Informáticas de Gestión
 **Colegio Artagan** | 2001 - 2003 | España
