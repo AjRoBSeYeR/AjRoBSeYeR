@@ -22,7 +22,7 @@ Especialista en Arquitecturas Nativas · Experiencia Full Stack
 
 Mi experiencia Full Stack con **Laravel, Django, React Native y AWS Lambda** complementa mi especialidad móvil. He desarrollado soluciones para medios de comunicación, fintech, salud, agroindustria y educación, con experiencia en liderazgo técnico y procesos de calidad CMMI Nivel 3.
 
-He finalizado el **Máster en Desarrollo con Inteligencia Artificial** y amplío mi trabajo de desarrollo con agentes de IA y automatización de procesos. Mi mayor experiencia práctica en este ámbito se centra en **Claude y Claude Code**.
+Cuento con un **Máster en Desarrollo con Inteligencia Artificial** y amplío mi trabajo de desarrollo con agentes de IA y automatización de procesos. Mi mayor experiencia práctica en este ámbito se centra en **Claude y Claude Code**.
 
 🌎 **Ubicación:** México, CDMX · Formación en España y México  
 💼 **Disponibilidad:** Proyectos freelance de desarrollo Android y soluciones Full Stack  
@@ -350,7 +350,7 @@ He finalizado el **Máster en Desarrollo con Inteligencia Artificial** y amplío
 ## 🎓 Formación Académica
 
 ### 🤖 Máster en Desarrollo con Inteligencia Artificial
-**Universidad Isabel I** | Noviembre 2025 - Marzo 2026 | **Finalizado**
+**Universidad Isabel I** | Noviembre 2025 - Marzo 2026
 - Certificado de **BIG school**, expedido en marzo de 2026.
 
 ### 🎓 Licenciatura en Ingeniería en Sistemas Computacionales
