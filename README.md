@@ -80,7 +80,7 @@ Cuento con un **Máster en Desarrollo con Inteligencia Artificial** y amplío mi
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 </p>
 
-- Desarrollo de aplicaciones multiplataforma con React Native.
+- Desarrollo de aplicaciones para iOS y Android con una base de código compartida.
 
 ### 🌐 Backend & Web
 <p>
@@ -93,9 +93,9 @@ Cuento con un **Máster en Desarrollo con Inteligencia Artificial** y amplío mi
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
-- Backend con Laravel, Django y Express.js; creación e integración de APIs REST, autenticación y microservicios.
-- **Django REST Framework:** desarrollo de servicios y APIs sobre Django.
-- **Scraping y crawling:** extracción y procesamiento de información, con experiencia aplicada a noticias.
+- Creación e integración de APIs REST, autenticación, microservicios y lógica de negocio.
+- Desarrollo de APIs con Django REST Framework.
+- Scraping y crawling para extraer y procesar información, con experiencia aplicada a noticias.
 
 ### 💻 Lenguajes de Programación
 <p>
@@ -117,7 +117,7 @@ Cuento con un **Máster en Desarrollo con Inteligencia Artificial** y amplío mi
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
-- Interfaces web responsivas con Bootstrap y Tailwind CSS.
+- Construcción de interfaces web responsivas.
 
 ### 💾 Bases de Datos & Cloud
 <p>
@@ -132,7 +132,7 @@ Cuento con un **Máster en Desarrollo con Inteligencia Artificial** y amplío mi
 </p>
 
 - Diseño, optimización y administración de bases de datos relacionales, persistencia local y servicios Firebase.
-- Arquitecturas serverless con AWS Lambda y TypeScript.
+- Desarrollo de backends serverless y funciones en la nube.
 
 ### 🔧 Herramientas & Frameworks
 <p>
@@ -148,15 +148,15 @@ Cuento con un **Máster en Desarrollo con Inteligencia Artificial** y amplío mi
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
 </p>
 
-- Control de versiones con Git y GitHub; builds con Gradle e integración y despliegue continuo con CircleCI.
-- Desarrollo de escritorio con VB.NET y .NET Framework; plataformas educativas con Moodle.
+- Control de versiones, automatización de builds y configuración de pipelines de integración y despliegue continuo.
+- Implementación y mantenimiento de aulas virtuales y plataformas educativas.
 
 ### 🐳 Contenedores y despliegue
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-- Despliegue autohospedado de n8n mediante Docker e integración de servicios para automatización.
+- Despliegue de servicios autohospedados para automatización.
 
 ### 🖥️ Desarrollo de escritorio e integración de sistemas
 <p>
@@ -164,8 +164,8 @@ Cuento con un **Máster en Desarrollo con Inteligencia Artificial** y amplío mi
   <img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black" />
 </p>
 
-- **VB6, VB.NET y .NET Framework:** desarrollo y evolución de sistemas de escritorio y soluciones integrales de gestión.
-- **Java MVC y Tomcat:** soluciones de gestión e integración entre sistemas locales, remotos y aplicaciones web.
+- Desarrollo y evolución de aplicaciones de escritorio y soluciones integrales de gestión.
+- Integración entre sistemas locales, remotos y aplicaciones web mediante Java MVC y Tomcat.
 
 ### 🤖 Inteligencia Artificial & Automatización
 <p>
@@ -185,16 +185,13 @@ Cuento con un **Máster en Desarrollo con Inteligencia Artificial** y amplío mi
 
 - **Claude y Claude Code — mayor experiencia práctica:** desarrollo asistido por IA, uso y configuración de agentes, skills y hooks para adaptar y automatizar el flujo de trabajo.
 - **Desarrollo guiado por especificaciones (Spec-Driven Development):** definición de requisitos y especificaciones para orientar la implementación con IA.
-- **Herramientas adicionales:** Codex, GitHub Copilot, OpenCode, ChatGPT, Grok, Perplexity y Warp; uso de prompts y agentes de desarrollo.
+- Uso de prompts y agentes para apoyar tareas de desarrollo y automatización.
 - **n8n:** diseño y configuración de workflows, integración de servicios y automatización de procesos y tareas, también en combinación con herramientas de IA.
 
-### 🔄 Otras capacidades técnicas
-- **Backend y cloud:** creación e integración de APIs REST, microservicios, autenticación y arquitecturas serverless con AWS Lambda y TypeScript.
-- **Datos:** diseño, optimización y administración de bases de datos.
-- **Web y plataformas:** interfaces responsivas con Bootstrap y Tailwind CSS, Moodle y sistemas de gestión educativa.
-- **Entrega y calidad:** Git, GitHub, Gradle, CircleCI, integración y despliegue continuo, automatización de builds y testing.
-- **Ingeniería de software:** POO, algoritmos, estructuras de datos, modernización de sistemas legacy y consultoría de arquitectura.
-- **Trabajo en equipo:** liderazgo técnico, Agile, Scrum y procesos de calidad CMMI Nivel 3.
+### 🔄 Ingeniería de software y trabajo en equipo
+- POO, algoritmos, estructuras de datos y consultoría de arquitectura.
+- Modernización y evolución de sistemas legacy.
+- Liderazgo técnico, Agile, Scrum y procesos de calidad CMMI Nivel 3.
 
 ---
 
