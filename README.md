@@ -350,8 +350,7 @@ Cuento con un **Máster en Desarrollo con Inteligencia Artificial** y amplío mi
 ## 🎓 Formación Académica
 
 ### 🤖 Máster en Desarrollo con Inteligencia Artificial
-**Universidad Isabel I** | Noviembre 2025 - Marzo 2026
-- Certificado de **BIG school**, expedido en marzo de 2026.
+**BIG school** · Avalado por la **Universidad Isabel I (España)** | Noviembre 2025 - Marzo 2026
 
 ### 🎓 Licenciatura en Ingeniería en Sistemas Computacionales
 **Universidad Tecnológica Latinoamericana (UTEL)** | 2015 - 2019 | México
