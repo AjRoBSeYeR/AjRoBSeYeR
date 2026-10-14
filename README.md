@@ -18,27 +18,15 @@ Especialista en Arquitecturas Nativas · Experiencia Full Stack
 
 ## 👨‍💻 Sobre mí
 
-**Ingeniero en Sistemas Computacionales** con más de **15 años de experiencia** en desarrollo de software, especializado en **Desarrollo Android Nativo desde 2019**. Actualmente **Software Engineer en Vinco Orbis Proyectos** (2020 - presente) y **Freelance Android & Full Stack Developer**.
+**Ingeniero en Sistemas Computacionales** con más de **15 años de experiencia** en desarrollo de software y **especialista sénior en Android nativo desde 2019**, con **Kotlin como lenguaje principal y Java**. Actualmente trabajo como **Software Engineer en Vinco Orbis Proyectos** y como desarrollador freelance.
 
-📱 **Especialista sénior en Android Nativo**: Comencé con **Java en 2019** y evolucioné a **Kotlin**, convirtiéndose en mi tecnología principal. Domino arquitecturas **MVC y MVVM**, con experiencia en **Retrofit, Room, Coroutines, Interfaces (XML y Jetpack Compose)**, sincronización de datos, geolocalización en tiempo real, y desarrollo de aplicaciones robustas y escalables.
+Mi experiencia Full Stack con **Laravel, Django, React Native y AWS Lambda** complementa mi especialidad móvil. He desarrollado soluciones para medios de comunicación, fintech, salud, agroindustria y educación, con experiencia en liderazgo técnico y procesos de calidad CMMI Nivel 3.
 
-🤖 **Máster en Desarrollo con Inteligencia Artificial finalizado**. Utilizo herramientas de IA como ChatGPT, Claude, Codex, Copilot, Grok, Perplexity, Warp y OpenCode, tanto en modo chat como con agentes de desarrollo para automatización y desarrollo asistido. Complemento mi especialidad en Android nativo y mi experiencia Full Stack con Laravel, Django, React Native y AWS Lambda con experiencia práctica en **n8n**, integrando servicios y automatizando procesos y tareas en combinación con herramientas de inteligencia artificial.
+He finalizado el **Máster en Desarrollo con Inteligencia Artificial** y amplío mi trabajo de desarrollo con agentes de IA y automatización de procesos. Mi mayor experiencia práctica en este ámbito se centra en **Claude y Claude Code**.
 
-Mi trayectoria abarca desde la enseñanza académica hasta el desarrollo de aplicaciones móviles de alto impacto en sectores como medios de comunicación, fintech, salud, agroindustria y educación. He liderado equipos, participado en certificaciones **CMMI Nivel 3**, y creado soluciones que transforman procesos empresariales.
-
-<p>
-  ✅ <b>Especialidad:</b> Android Nativo (Kotlin/Java) · MVVM/MVC · Clean Architecture<br/>
-  🧩 <b>Complementario:</b> React Native · Laravel · Django · Serverless (AWS Lambda) · CI/CD
-</p>
-
-🌎 **Ubicación:** México, CDMX (Formación académica en España y México)  
-🎓 **Experiencia:** +15 años en desarrollo de software | **6+ años especializados en Android Nativo**  
-💼 **Especialización Principal:** Android Nativo (Kotlin/Java), Arquitecturas MVVM/MVC  
-💻 **Stack Complementario:** React Native, Laravel, Django, Serverless (AWS Lambda)  
-💻 **Disponibilidad:** Freelance para proyectos de desarrollo móvil Android y web  
-⚙️ **Metodologías:** CMMI Nivel 3, Agile, Scrum, CI/CD  
-🎯 **Enfoque:** Crear aplicaciones Android robustas, escalables y con experiencia de usuario excepcional  
-🎓 **Formación finalizada:** Máster en Desarrollo con Inteligencia Artificial
+🌎 **Ubicación:** México, CDMX · Formación en España y México  
+💼 **Disponibilidad:** Proyectos freelance de desarrollo Android y soluciones Full Stack  
+🗣️ **Idioma:** Español nativo
 
 ---
 
@@ -54,32 +42,15 @@ Mi trayectoria abarca desde la enseñanza académica hasta el desarrollo de apli
   <img src="https://img.shields.io/badge/XML-FF6600?style=for-the-badge" />
 </p>
 
-**Arquitecturas & Patrones:**
-- MVVM (Model-View-ViewModel) - Patrón principal
-- MVC (Model-View-Controller)
-- Clean Architecture
-- Repository Pattern
+**Arquitecturas y patrones:** MVVM (principal), MVC, Clean Architecture, Repository Pattern e inyección de dependencias con Hilt/Dagger.
 
-**Librerías & Frameworks Clave:**
-- **Retrofit** - Consumo de APIs REST
-- **Room** - Base de datos local y persistencia
-- **Coroutines** - Programación asíncrona
-- **Flow** - Manejo de streams de datos reactivos
-- **LiveData & ViewModel** - Gestión de estados UI
-- **Jetpack Compose** - UI moderna declarativa
-- **XML Layouts** - UI tradicional
-- **Material Design Components**
-- **Navigation Component**
-- **Dependency Injection** (Hilt/Dagger)
-
-**Capacidades Técnicas:**
-- Sincronización de datos offline/online
-- Geolocalización en tiempo real
-- Integración con APIs REST
-- Manejo de bases de datos locales (Room + SQLite)
-- Firebase (Authentication, Firestore, Cloud Messaging)
-- Cámara y permisos Android
-- Background services y WorkManager
+- **Jetpack y estado de UI:** ViewModel, LiveData, Flow, Navigation Component, WorkManager y DataStore.
+- **Red y asincronía:** Retrofit, OkHttp, APIs REST, Coroutines y manejo de hilos.
+- **Interfaces:** Jetpack Compose, XML, Material Design Components, vistas personalizadas y animaciones.
+- **Persistencia:** Room, SQLite, SharedPreferences y DataStore.
+- **Firebase:** Authentication, Firestore, Cloud Messaging (FCM) y Analytics.
+- **Funcionalidades:** sincronización offline/online, geolocalización, servicios en segundo plano, notificaciones push, cámara, multimedia y permisos.
+- **Testing:** JUnit, Espresso y Mockito.
 
 ### 📲 Desarrollo Móvil Multiplataforma
 <p>
@@ -158,6 +129,20 @@ Mi trayectoria abarca desde la enseñanza académica hasta el desarrollo de apli
   <img src="https://img.shields.io/badge/Prompt_Engineering-00D9FF?style=for-the-badge" />
 </p>
 
+- **Claude y Claude Code — mayor experiencia práctica:** desarrollo asistido por IA, uso y configuración de agentes, skills y hooks para adaptar y automatizar el flujo de trabajo.
+- **Desarrollo guiado por especificaciones (Spec-Driven Development):** definición de requisitos y especificaciones para orientar la implementación con IA.
+- **Herramientas adicionales:** Codex, GitHub Copilot, OpenCode, ChatGPT, Grok, Perplexity y Warp; uso de prompts y agentes de desarrollo.
+- **n8n:** diseño y configuración de workflows, integración de servicios y automatización de procesos y tareas, también en combinación con herramientas de IA.
+- **Despliegue de automatizaciones:** n8n autohospedado mediante Docker.
+
+### 🔄 Otras capacidades técnicas
+- **Backend y cloud:** creación e integración de APIs REST, microservicios, autenticación y arquitecturas serverless con AWS Lambda y TypeScript.
+- **Datos:** diseño, optimización y administración de bases de datos.
+- **Web y plataformas:** interfaces responsivas con Bootstrap y Tailwind CSS, Moodle y sistemas de gestión educativa.
+- **Entrega y calidad:** Git, GitHub, Gradle, CircleCI, integración y despliegue continuo, automatización de builds y testing.
+- **Ingeniería de software:** POO, algoritmos, estructuras de datos, modernización de sistemas legacy y consultoría de arquitectura.
+- **Trabajo en equipo:** liderazgo técnico, Agile, Scrum y procesos de calidad CMMI Nivel 3.
+
 ---
 
 ## 💼 Experiencia Profesional
@@ -232,37 +217,17 @@ Mi trayectoria abarca desde la enseñanza académica hasta el desarrollo de apli
 ### 💻 Freelance Android & Full Stack Developer | AjRoBSeYeR
 **Agosto 2004 - Actualidad** | Remoto
 
-**Desarrollo Android Nativo (Especialidad)**
-- 📱 Desarrollo de aplicaciones Android nativas con Kotlin y Java
-- 🏗️ Implementación de arquitecturas MVVM y MVC
-- 🔄 Integración con APIs REST usando Retrofit
-- 💾 Persistencia de datos con Room y SQLite
-- ⚡ Programación asíncrona con Coroutines y Flow
-- 🎨 Diseño de interfaces con XML y Jetpack Compose
-- 🔔 Implementación de notificaciones push con Firebase
-- 📍 Geolocalización y servicios de ubicación
-- 🔐 Autenticación y seguridad de datos
-
-**Desarrollo Web & Backend**
-- 🌐 Desarrollo de aplicaciones web con Laravel y PHP
-- 🎨 Desarrollo de aplicaciones móviles híbridas con React Native
-- 🔧 Desarrollo de sistemas empresariales y plataformas educativas
-- ☁️ Desarrollo de arquitecturas serverless con AWS Lambda (TypeScript)
-- 🗄️ Diseño e implementación de bases de datos (MySQL, PostgreSQL, Firebase)
-- 🔌 Creación de APIs REST y servicios web
-- 🤖 Integración de modelos de IA para automatización y desarrollo asistido
-- ⚡ Diseño y configuración de workflows con n8n para automatizar procesos y tareas e integrar servicios
-- 🐳 Despliegue de n8n autohospedado mediante Docker
-- 🔄 Configuración de pipelines CI/CD con Circle CI
-- 📊 Consultoría técnica y arquitectura de software
-
-**Tecnologías principales**: **Android Studio, Kotlin, Java, Retrofit, Room, Coroutines, MVVM, Jetpack Compose**, Laravel, PHP, MySQL, PostgreSQL, React Native, TypeScript, AWS Lambda, Bootstrap, Tailwind CSS, Git, Firebase, Circle CI
+- Desarrollo de software a medida, sistemas empresariales y plataformas educativas.
+- Especialización actual en aplicaciones Android nativas, con integración de servicios, persistencia local y sincronización de datos.
+- Desarrollo de aplicaciones web, soluciones multiplataforma y backends serverless.
+- Automatización de procesos, integración de IA y configuración de pipelines CI/CD.
+- Consultoría técnica y arquitectura de software.
 
 ### 💻 Cofundador y Desarrollador | RBBR Software
 **Enero 2016 - Febrero 2018** | Texcoco, México
-- Diseño, programación y puesta en marcha de software educativo, sistemas de gestión contable y control escolar
-- Desarrollo de sistemas locales y remotos comunicados con aplicaciones web
-- Tecnologías: HTML, CSS, VB.NET, PHP, JavaScript, Android Studio (Java), Java MVC, Tomcat, VB6 y XML
+- Diseño, desarrollo y puesta en marcha de sistemas de escritorio y soluciones integrales de gestión educativa, contable y control escolar.
+- Integración de sistemas locales y remotos con servicios y aplicaciones web.
+- Tecnologías: VB.NET, VB6, HTML, CSS, PHP, JavaScript, Java MVC, Tomcat y XML.
 
 ### 📱 Desarrollador Android Nativo | Ibermática
 **Marzo 2019 - Noviembre 2019** | España
@@ -351,6 +316,7 @@ Mi trayectoria abarca desde la enseñanza académica hasta el desarrollo de apli
 
 ### 🤖 Máster en Desarrollo con Inteligencia Artificial
 **Universidad Isabel I** | Noviembre 2025 - Marzo 2026 | **Finalizado**
+- Certificado de **BIG school**, expedido en marzo de 2026.
 
 ### 🎓 Licenciatura en Ingeniería en Sistemas Computacionales
 **Universidad Tecnológica Latinoamericana (UTEL)** | 2015 - 2019 | México
@@ -380,8 +346,6 @@ Mi trayectoria abarca desde la enseñanza académica hasta el desarrollo de apli
 
 ✅ **Claude 101** – Anthropic (julio de 2026)
 
-✅ **Máster en Desarrollo con Inteligencia Artificial** – BIG school (marzo de 2026), finalizado
-
 ✅ **Curso de iniciación al desarrollo con IA** – BIG school (octubre de 2025)
 
 ✅ **Máster en PHP, SQL, POO, MVC, Laravel** – Udemy (2024)
@@ -404,87 +368,13 @@ Mi trayectoria abarca desde la enseñanza académica hasta el desarrollo de apli
 
 ---
 
-## 💡 Áreas de Expertise
-
-### 📱 **Desarrollo Android Nativo (Especialidad Principal)**
-- **Lenguajes**: Kotlin (principal), Java
-- **Experiencia**: 6+ años desde 2019 (Java → Kotlin)
-- **Arquitecturas**: MVVM (principal), MVC, Clean Architecture, Repository Pattern
-- **Componentes Jetpack**: 
-  - ViewModel, LiveData, Flow
-  - Room (base de datos local)
-  - Navigation Component
-  - WorkManager
-  - DataStore
-- **Networking**: Retrofit, OkHttp, consumo de APIs REST
-- **Asincronía**: Coroutines, Flow, manejo de hilos
-- **UI**: 
-  - Jetpack Compose (UI moderna declarativa)
-  - XML Layouts (UI tradicional)
-  - Material Design Components
-  - Custom Views
-  - Animations
-- **Persistencia**: Room, SQLite, SharedPreferences, DataStore
-- **Firebase**: Authentication, Firestore, Cloud Messaging (FCM), Analytics
-- **Funcionalidades Avanzadas**:
-  - Sincronización offline/online
-  - Geolocalización en tiempo real (Google Maps API, Location Services)
-  - Servicios en background
-  - Notificaciones push
-  - Cámara y multimedia
-  - Permisos Android
-- **Testing**: JUnit, Espresso, Mockito
-- **CI/CD**: Circle CI, automatización de builds
-
-### 🔄 **Capacidades Complementarias**
-- **Integración de APIs**: Retrofit, REST API, consumo y creación de servicios web
-- **UI/UX Mobile & Web**: Bootstrap, Tailwind CSS, diseño responsivo
-- **Arquitecturas Backend**: Laravel, Django, Express.js, MVC, Microservicios
-- ☁️ **Arquitecturas Serverless**: AWS Lambda, funciones serverless con TypeScript
-- 🔐 **Sistemas de Autenticación**: Verificación de identidad, manejo de sesiones
-- 📊 **Bases de Datos**: Diseño, optimización y administración (Room, SQLite, MySQL, PostgreSQL, Firebase)
-- 🎓 **Plataformas Educativas**: Moodle, LMS personalizados
-- 👥 **Liderazgo Técnico**: Gestión de equipos, CMMI, procesos de calidad
-- 🔄 **DevOps & CI/CD**: Circle CI, automatización de builds y testing
-- 🤖 **Inteligencia Artificial & LLMs**: ChatGPT, Claude, Codex, Copilot, Grok, Perplexity, Warp, OpenCode, desarrollo asistido por IA, prompt engineering
-- ⚡ **Automatización de Procesos**: experiencia práctica con n8n en diseño y configuración de workflows, integración de servicios y despliegues autohospedados con Docker
-- 📐 **Algoritmos y Estructuras de Datos**: POO, diseño de software
-- 🔄 **Migración y Evolución de Sistemas**: Modernización de aplicaciones legacy
-- 🔧 **Herramientas de Desarrollo**: Git, GitHub, Android Studio, Gradle
-- 🌐 **Desarrollo Web Full Stack**: HTML5, CSS3, JavaScript, TypeScript, PHP, Python, Laravel, Bootstrap, Tailwind CSS
-- 💼 **Consultoría**: Arquitectura de software móvil, desarrollo a medida
-- 🗣️ **Idiomas**: Español (nativo)
-
----
-
 ## 💼 Servicios Freelance
 
-### 📱 **Especialidad: Desarrollo Android Nativo**
-- ✅ **Apps Android Nativas** con Kotlin/Java
-- ✅ **Arquitecturas Modernas** (MVVM, Clean Architecture)
-- ✅ **UI Moderna** con Jetpack Compose y XML
-- ✅ **Integración de APIs** REST con Retrofit
-- ✅ **Bases de Datos Locales** con Room
-- ✅ **Sincronización Offline/Online**
-- ✅ **Geolocalización** y mapas
-- ✅ **Firebase** (Auth, Firestore, FCM)
-- ✅ **Migración Java → Kotlin**
-- ✅ **Modernización de Apps Android Legacy**
-
-### 🌐 **Servicios Complementarios**
-- 🌐 **Desarrollo Web Full Stack** (Laravel, Django, PHP)
-- 📲 **Apps Multiplataforma** con React Native
-- ☁️ **Arquitecturas Serverless** con AWS Lambda (TypeScript)
-- 🔌 **Desarrollo de APIs** REST
-- 🗄️ **Diseño de Bases de Datos** (MySQL, PostgreSQL)
-- 🎨 **Diseño Frontend Responsivo** (Bootstrap, Tailwind CSS)
-- 🎓 **Plataformas Educativas** y LMS
-- 🔄 **Modernización de Sistemas Legacy**
-- 🤖 **Integración de IA** en aplicaciones
-- 🔧 **Automatización con Agentes de IA**
-- ⚡ **Automatización de Procesos** con n8n
-- 🔄 **Configuración CI/CD** con Circle CI
-- 💡 **Consultoría Técnica** y código de calidad
+- 📱 **Aplicaciones Android a medida:** desarrollo, mantenimiento y evolución de aplicaciones nativas.
+- 🔄 **Modernización de aplicaciones:** migración de Java a Kotlin y actualización de arquitecturas y sistemas legacy.
+- 🌐 **Soluciones Full Stack y multiplataforma:** aplicaciones web, APIs, backends y aplicaciones con React Native.
+- ⚡ **Automatización e integración de IA:** workflows con n8n y agentes de desarrollo como complemento al software a medida.
+- 💡 **Consultoría técnica:** arquitectura, integración de sistemas y calidad de código.
 
 ---
 
@@ -501,16 +391,3 @@ Mi trayectoria abarca desde la enseñanza académica hasta el desarrollo de apli
   </a>
 </p>
 
----
-
-<p align="center">
-  <i>"El código limpio no se trata solo de funcionalidad, sino de crear experiencias que transformen la vida de las personas."</i>
-</p>
-
-<p align="center">
-  <b>🌟 6+ años especializados en Android Nativo (Kotlin) | 15+ años en desarrollo de software 🌟</b>
-</p>
-
-<p align="center">
-  <b>💼 Disponible para proyectos freelance de desarrollo Android y Full Stack 💼</b>
-</p>
