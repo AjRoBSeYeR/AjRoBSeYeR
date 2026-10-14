@@ -94,6 +94,8 @@ Cuento con un **Máster en Desarrollo con Inteligencia Artificial** y amplío mi
 </p>
 
 - Backend con Laravel, Django y Express.js; creación e integración de APIs REST, autenticación y microservicios.
+- **Django REST Framework:** desarrollo de servicios y APIs sobre Django.
+- **Scraping y crawling:** extracción y procesamiento de información, con experiencia aplicada a noticias.
 
 ### 💻 Lenguajes de Programación
 <p>
@@ -149,10 +151,27 @@ Cuento con un **Máster en Desarrollo con Inteligencia Artificial** y amplío mi
 - Control de versiones con Git y GitHub; builds con Gradle e integración y despliegue continuo con CircleCI.
 - Desarrollo de escritorio con VB.NET y .NET Framework; plataformas educativas con Moodle.
 
+### 🐳 Contenedores y despliegue
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+- Despliegue autohospedado de n8n mediante Docker e integración de servicios para automatización.
+
+### 🖥️ Desarrollo de escritorio e integración de sistemas
+<p>
+  <img src="https://img.shields.io/badge/Visual_Basic_6-512BD4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black" />
+</p>
+
+- **VB6, VB.NET y .NET Framework:** desarrollo y evolución de sistemas de escritorio y soluciones integrales de gestión.
+- **Java MVC y Tomcat:** soluciones de gestión e integración entre sistemas locales, remotos y aplicaciones web.
+
 ### 🤖 Inteligencia Artificial & Automatización
 <p>
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-181818?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
   <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white" />
@@ -168,7 +187,6 @@ Cuento con un **Máster en Desarrollo con Inteligencia Artificial** y amplío mi
 - **Desarrollo guiado por especificaciones (Spec-Driven Development):** definición de requisitos y especificaciones para orientar la implementación con IA.
 - **Herramientas adicionales:** Codex, GitHub Copilot, OpenCode, ChatGPT, Grok, Perplexity y Warp; uso de prompts y agentes de desarrollo.
 - **n8n:** diseño y configuración de workflows, integración de servicios y automatización de procesos y tareas, también en combinación con herramientas de IA.
-- **Despliegue de automatizaciones:** n8n autohospedado mediante Docker.
 
 ### 🔄 Otras capacidades técnicas
 - **Backend y cloud:** creación e integración de APIs REST, microservicios, autenticación y arquitecturas serverless con AWS Lambda y TypeScript.
