@@ -230,7 +230,7 @@ Mi trayectoria abarca desde la enseñanza académica hasta el desarrollo de apli
 - ⚙️ Colaboración en creación y afinación de procesos para **certificación CMMI Nivel 3**
 
 ### 💻 Freelance Android & Full Stack Developer | AjRoBSeYeR
-**2016 - Actualidad** | Remoto
+**Agosto 2004 - Actualidad** | Remoto
 
 **Desarrollo Android Nativo (Especialidad)**
 - 📱 Desarrollo de aplicaciones Android nativas con Kotlin y Java
@@ -258,8 +258,14 @@ Mi trayectoria abarca desde la enseñanza académica hasta el desarrollo de apli
 
 **Tecnologías principales**: **Android Studio, Kotlin, Java, Retrofit, Room, Coroutines, MVVM, Jetpack Compose**, Laravel, PHP, MySQL, PostgreSQL, React Native, TypeScript, AWS Lambda, Bootstrap, Tailwind CSS, Git, Firebase, Circle CI
 
+### 💻 Cofundador y Desarrollador | RBBR Software
+**Enero 2016 - Febrero 2018** | Texcoco, México
+- Diseño, programación y puesta en marcha de software educativo, sistemas de gestión contable y control escolar
+- Desarrollo de sistemas locales y remotos comunicados con aplicaciones web
+- Tecnologías: HTML, CSS, VB.NET, PHP, JavaScript, Android Studio (Java), Java MVC, Tomcat, VB6 y XML
+
 ### 📱 Desarrollador Android Nativo | Ibermática
-**Enero 2019 - Noviembre 2019** | España
+**Marzo 2019 - Noviembre 2019** | España
 
 **Inicio de Especialización en Android** - Aquí comenzó mi trayectoria como desarrollador Android, iniciando con **Java** y las bases de la plataforma.
 
@@ -285,7 +291,7 @@ Mi trayectoria abarca desde la enseñanza académica hasta el desarrollo de apli
   - Visualización de documentos PDF
 
 ### 👨‍🏫 Desarrollador y Responsable de Sistemas | Centro de Enseñanza y Capacitación (CEC)
-**2015 - 2020 | 2024 - Actualidad** | México
+**Agosto 2014 - Febrero 2020 | 2024 - Actualidad** | México
 
 **Sistema de Gestión Escolar - Evolución Continua**
 - 🎬 **Fase 1 (2014-2015)**: Sistema en Flash con ActionScript 3
@@ -321,34 +327,40 @@ Mi trayectoria abarca desde la enseñanza académica hasta el desarrollo de apli
 - Ofimática avanzada
 
 ### 🎓 Director y Profesor | Instituto de Progreso en Enseñanza en Computación (IPEC)
-**2011 - 2013** | México
-- Dirección de plantel (gestión de nóminas, organización, marketing)
-- Docencia en computación y matemáticas de bachillerato
+**Septiembre 2011 - Julio 2014** | México
+- Dirección de plantel de septiembre de 2012 a julio de 2014
+- Docencia en informática: programación web, estructuras de datos y algoritmos, mantenimiento de equipos, redes locales y dominios
+- Formación en diseño gráfico, multimedia, ofimática e informática de gestión empresarial
 
-### 🌐 Webmaster | M&M Innovación
-**2013 - 2014** | México
-- Desarrollo web y sistema de gestión de pedidos (Flash/ActionScript 2)
+### 🌐 Director del Departamento de Programación y Desarrollo de Software | M&M Innovación
+**Julio 2014 - Julio 2015** | México
+- Desarrollo de sistema de gestión interna de producción (HTML, CSS, Flash, ActionScript 2 y MySQL)
 
 ### 🔧 Técnico Informático | Natura Plena Informática
-**2005 - 2011** | España
+**Octubre 2005 - Noviembre 2010** | España
 - Servicio técnico, reparación y mantenimiento
 - Proveedor de insumos informáticos a empresas
+
+### 🔧 Responsable de Mantenimiento Informático | Obispado de Bilbao
+**Marzo 2002 - Enero 2004** | Bilbao, España
+- Asistencia técnica presencial, telefónica y remota a las distintas áreas de la organización
 
 ---
 
 ## 🎓 Formación Académica
 
 ### 🤖 Máster en Desarrollo con Inteligencia Artificial
-**Finalizado** | Inicio: 2024
+**Universidad Isabel I** | Noviembre 2025 - Marzo 2026 | **Finalizado**
 
 ### 🎓 Licenciatura en Ingeniería en Sistemas Computacionales
 **Universidad Tecnológica Latinoamericana (UTEL)** | 2015 - 2019 | México
 
-### 💻 Desarrollador de Aplicaciones Informáticas
+### 💻 Programador de Aplicaciones de Gestión WebApps
 **Ipartek** | 2018 - 2019 | España
+- J2EE, HTML5, CSS3, Bootstrap, Hibernate, Angular y MySQL Workbench
 
 ### 📱 Técnico Superior en Desarrollo de Aplicaciones Informáticas de Gestión
-**Colegio Artagan** | 2002 - 2004 | España
+**Colegio Artagan** | 2001 - 2003 | España
 
 ### 🔧 Técnico en Mantenimiento de Ordenadores y Redes
 **Formatik Center** | 2000 - 2002 | España
@@ -360,7 +372,17 @@ Mi trayectoria abarca desde la enseñanza académica hasta el desarrollo de apli
 
 ## 📜 Certificaciones y Cursos
 
-✅ **Máster en Desarrollo con Inteligencia Artificial** – Finalizado
+✅ **AI Fluency Framework & Foundations** – Anthropic (julio de 2026)
+
+✅ **Claude Platform 101** – Anthropic (julio de 2026)
+
+✅ **Claude Code 101** – Anthropic (julio de 2026)
+
+✅ **Claude 101** – Anthropic (julio de 2026)
+
+✅ **Máster en Desarrollo con Inteligencia Artificial** – BIG school (marzo de 2026), finalizado
+
+✅ **Curso de iniciación al desarrollo con IA** – BIG school (octubre de 2025)
 
 ✅ **Máster en PHP, SQL, POO, MVC, Laravel** – Udemy (2024)
 
@@ -370,7 +392,13 @@ Mi trayectoria abarca desde la enseñanza académica hasta el desarrollo de apli
 
 ✅ **Jetpack Compose (Android)** – Noble Work Foundation (2022)
 
-✅ **Kotlin para Desarrolladores Android** – Antonio Leiva & JetBrains (2020)
+✅ **iOS & Swift - The Complete iOS App Development Bootcamp** – Udemy (octubre de 2021)
+
+✅ **iOS 12 y Swift 4: Curso Completo de Cero a Profesional** – Udemy (junio de 2021)
+
+✅ **Kotlin para Desarrolladores Android** – Antonio Leiva / antonioleiva.com (2020)
+
+✅ **PWA - Aplicaciones Web Progresivas: De cero a experto** – Udemy (septiembre de 2020)
 
 ✅ **Kotlin Programming Language: Beginner to Advanced** – Udemy (2020)
 
