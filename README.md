@@ -42,20 +42,45 @@ He finalizado el **Máster en Desarrollo con Inteligencia Artificial** y amplío
   <img src="https://img.shields.io/badge/XML-FF6600?style=for-the-badge" />
 </p>
 
-**Arquitecturas y patrones:** MVVM (principal), MVC, Clean Architecture, Repository Pattern e inyección de dependencias con Hilt/Dagger.
+**Arquitecturas & Patrones:**
+- MVVM (Model-View-ViewModel) - Patrón principal
+- MVC (Model-View-Controller)
+- Clean Architecture
+- Repository Pattern
 
-- **Jetpack y estado de UI:** ViewModel, LiveData, Flow, Navigation Component, WorkManager y DataStore.
-- **Red y asincronía:** Retrofit, OkHttp, APIs REST, Coroutines y manejo de hilos.
-- **Interfaces:** Jetpack Compose, XML, Material Design Components, vistas personalizadas y animaciones.
-- **Persistencia:** Room, SQLite, SharedPreferences y DataStore.
-- **Firebase:** Authentication, Firestore, Cloud Messaging (FCM) y Analytics.
-- **Funcionalidades:** sincronización offline/online, geolocalización, servicios en segundo plano, notificaciones push, cámara, multimedia y permisos.
-- **Testing:** JUnit, Espresso y Mockito.
+**Librerías & Frameworks Clave:**
+- **Retrofit** - Consumo de APIs REST
+- **Room** - Base de datos local y persistencia
+- **Coroutines** - Programación asíncrona
+- **Flow** - Manejo de streams de datos reactivos
+- **LiveData & ViewModel** - Gestión de estados UI
+- **Jetpack Compose** - UI moderna declarativa
+- **XML Layouts** - UI tradicional
+- **Material Design Components**
+- **Navigation Component**
+- **Dependency Injection** (Hilt/Dagger)
+
+**Capacidades Técnicas:**
+- Sincronización de datos offline/online
+- Geolocalización en tiempo real
+- Integración con APIs REST
+- Manejo de bases de datos locales (Room + SQLite)
+- Firebase (Authentication, Firestore, Cloud Messaging)
+- Cámara y permisos Android
+- Background services y WorkManager
+
+**Otros componentes y prácticas:**
+- OkHttp, DataStore y SharedPreferences
+- Custom Views y animaciones
+- Firebase Analytics
+- Testing con JUnit, Espresso y Mockito
 
 ### 📲 Desarrollo Móvil Multiplataforma
 <p>
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 </p>
+
+- Desarrollo de aplicaciones multiplataforma con React Native.
 
 ### 🌐 Backend & Web
 <p>
@@ -67,6 +92,8 @@ He finalizado el **Máster en Desarrollo con Inteligencia Artificial** y amplío
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
+
+- Backend con Laravel, Django y Express.js; creación e integración de APIs REST, autenticación y microservicios.
 
 ### 💻 Lenguajes de Programación
 <p>
@@ -88,6 +115,8 @@ He finalizado el **Máster en Desarrollo con Inteligencia Artificial** y amplío
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
+- Interfaces web responsivas con Bootstrap y Tailwind CSS.
+
 ### 💾 Bases de Datos & Cloud
 <p>
   <img src="https://img.shields.io/badge/Room-4285F4?style=for-the-badge&logo=android&logoColor=white" />
@@ -99,6 +128,9 @@ He finalizado el **Máster en Desarrollo con Inteligencia Artificial** y amplío
   <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" />
   <img src="https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white" />
 </p>
+
+- Diseño, optimización y administración de bases de datos relacionales, persistencia local y servicios Firebase.
+- Arquitecturas serverless con AWS Lambda y TypeScript.
 
 ### 🔧 Herramientas & Frameworks
 <p>
@@ -113,6 +145,9 @@ He finalizado el **Máster en Desarrollo con Inteligencia Artificial** y amplío
   <img src="https://img.shields.io/badge/.NET_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
 </p>
+
+- Control de versiones con Git y GitHub; builds con Gradle e integración y despliegue continuo con CircleCI.
+- Desarrollo de escritorio con VB.NET y .NET Framework; plataformas educativas con Moodle.
 
 ### 🤖 Inteligencia Artificial & Automatización
 <p>
