@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hola, soy Borja Reyes Díez</h1>
 
 <h3 align="center">
-Senior Android Native Developer (Kotlin)<br/>
+Senior Android Native Developer (Kotlin/Java)<br/>
 Especialista en Arquitecturas Nativas · Experiencia Full Stack
 </h3>
 
@@ -20,9 +20,9 @@ Especialista en Arquitecturas Nativas · Experiencia Full Stack
 
 **Ingeniero en Sistemas Computacionales** con más de **15 años de experiencia** en desarrollo de software, especializado en **Desarrollo Android Nativo desde 2019**. Actualmente **Software Engineer en Vinco Orbis Proyectos** (2020 - presente) y **Freelance Android & Full Stack Developer**.
 
-📱 **Especialista en Android Nativo**: Comencé con **Java en 2019** y evolucioné a **Kotlin**, convirtiéndose en mi tecnología principal. Domino arquitecturas **MVC y MVVM**, con experiencia en **Retrofit, Room, Coroutines, Interfaces (XML y Jetpack Compose)**, sincronización de datos, geolocalización en tiempo real, y desarrollo de aplicaciones robustas y escalables.
+📱 **Especialista sénior en Android Nativo**: Comencé con **Java en 2019** y evolucioné a **Kotlin**, convirtiéndose en mi tecnología principal. Domino arquitecturas **MVC y MVVM**, con experiencia en **Retrofit, Room, Coroutines, Interfaces (XML y Jetpack Compose)**, sincronización de datos, geolocalización en tiempo real, y desarrollo de aplicaciones robustas y escalables.
 
-🤖 **Actualmente cursando Máster en Desarrollo con Inteligencia Artificial**, expandiendo mis capacidades hacia la integración de IA en soluciones de software modernas. Trabajo con múltiples modelos de IA incluyendo ChatGPT, Claude, Codex, Copilot, Grok, Perplexity, Warp y OpenCode, tanto en modo chat como en modo agente para automatización y desarrollo asistido.
+🤖 **Máster en Desarrollo con Inteligencia Artificial finalizado**. Utilizo herramientas de IA como ChatGPT, Claude, Codex, Copilot, Grok, Perplexity, Warp y OpenCode, tanto en modo chat como con agentes de desarrollo para automatización y desarrollo asistido. Complemento mi especialidad en Android nativo y mi experiencia Full Stack con Laravel, Django, React Native y AWS Lambda con experiencia práctica en **n8n**, integrando servicios y automatizando procesos y tareas en combinación con herramientas de inteligencia artificial.
 
 Mi trayectoria abarca desde la enseñanza académica hasta el desarrollo de aplicaciones móviles de alto impacto en sectores como medios de comunicación, fintech, salud, agroindustria y educación. He liderado equipos, participado en certificaciones **CMMI Nivel 3**, y creado soluciones que transforman procesos empresariales.
 
@@ -38,7 +38,7 @@ Mi trayectoria abarca desde la enseñanza académica hasta el desarrollo de apli
 💻 **Disponibilidad:** Freelance para proyectos de desarrollo móvil Android y web  
 ⚙️ **Metodologías:** CMMI Nivel 3, Agile, Scrum, CI/CD  
 🎯 **Enfoque:** Crear aplicaciones Android robustas, escalables y con experiencia de usuario excepcional  
-🚀 **En formación:** Desarrollo con Inteligencia Artificial
+🎓 **Formación finalizada:** Máster en Desarrollo con Inteligencia Artificial
 
 ---
 
@@ -251,7 +251,8 @@ Mi trayectoria abarca desde la enseñanza académica hasta el desarrollo de apli
 - 🗄️ Diseño e implementación de bases de datos (MySQL, PostgreSQL, Firebase)
 - 🔌 Creación de APIs REST y servicios web
 - 🤖 Integración de modelos de IA para automatización y desarrollo asistido
-- ⚡ Creación de flujos de automatización con n8n
+- ⚡ Diseño y configuración de workflows con n8n para automatizar procesos y tareas e integrar servicios
+- 🐳 Despliegue de n8n autohospedado mediante Docker
 - 🔄 Configuración de pipelines CI/CD con Circle CI
 - 📊 Consultoría técnica y arquitectura de software
 
@@ -338,7 +339,7 @@ Mi trayectoria abarca desde la enseñanza académica hasta el desarrollo de apli
 ## 🎓 Formación Académica
 
 ### 🤖 Máster en Desarrollo con Inteligencia Artificial
-**En curso** | 2024 - Actualidad
+**Finalizado** | Inicio: 2024
 
 ### 🎓 Licenciatura en Ingeniería en Sistemas Computacionales
 **Universidad Tecnológica Latinoamericana (UTEL)** | 2015 - 2019 | México
@@ -359,7 +360,7 @@ Mi trayectoria abarca desde la enseñanza académica hasta el desarrollo de apli
 
 ## 📜 Certificaciones y Cursos
 
-🔄 **Máster en Desarrollo con Inteligencia Artificial** – En curso (2024-2025)
+✅ **Máster en Desarrollo con Inteligencia Artificial** – Finalizado
 
 ✅ **Máster en PHP, SQL, POO, MVC, Laravel** – Udemy (2024)
 
@@ -418,7 +419,7 @@ Mi trayectoria abarca desde la enseñanza académica hasta el desarrollo de apli
 - 👥 **Liderazgo Técnico**: Gestión de equipos, CMMI, procesos de calidad
 - 🔄 **DevOps & CI/CD**: Circle CI, automatización de builds y testing
 - 🤖 **Inteligencia Artificial & LLMs**: ChatGPT, Claude, Codex, Copilot, Grok, Perplexity, Warp, OpenCode, desarrollo asistido por IA, prompt engineering
-- ⚡ **Automatización de Procesos**: n8n (nivel básico), workflows
+- ⚡ **Automatización de Procesos**: experiencia práctica con n8n en diseño y configuración de workflows, integración de servicios y despliegues autohospedados con Docker
 - 📐 **Algoritmos y Estructuras de Datos**: POO, diseño de software
 - 🔄 **Migración y Evolución de Sistemas**: Modernización de aplicaciones legacy
 - 🔧 **Herramientas de Desarrollo**: Git, GitHub, Android Studio, Gradle
@@ -467,7 +468,7 @@ Mi trayectoria abarca desde la enseñanza académica hasta el desarrollo de apli
   <a href="https://www.linkedin.com/in/ajrobseyer/">
     <img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:borja.reyes@example.com">
+  <a href="mailto:ajrob.seyer@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contactar-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
